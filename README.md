@@ -1,4 +1,3 @@
-<img width="716" height="1600" alt="2" src="https://github.com/user-attachments/assets/6e71090a-2fd9-4c1a-b0f7-36427b79bc83" />
 # 📱 Event Finder App (Flutter)
 
 ## 📝 Overview
@@ -98,10 +97,11 @@ lib/
 
 ## 🎥 Demo
 
-<img width="716" height="1600" alt="1" src="https://github.com/user-attachments/assets/29b87af7-2132-48c8-9382-2dc4331f9c58" />
-<img width="716" height="1600" alt="2" src="https://github.com/user-attachments/assets/dcbf1681-32a7-43fb-a714-4d520e998258" />
-<img width="716" height="1600" alt="3" src="https://github.com/user-attachments/assets/eb78e20e-13bb-493c-ba75-fdf318520fce" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29b87af7-2132-48c8-9382-2dc4331f9c58" width="250"/>
+  <img src="https://github.com/user-attachments/assets/dcbf1681-32a7-43fb-a714-4d520e998258" width="250"/>
+  <img src="https://github.com/user-attachments/assets/eb78e20e-13bb-493c-ba75-fdf318520fce" width="250"/>
+</p>
 ---
 
 ## 📦 APK Download
