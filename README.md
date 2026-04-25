@@ -31,7 +31,7 @@ Event Finder is a Flutter-based mobile application that allows users to browse a
 
 Mock API used for fetching event data:
 
-👉 https://your-api-link-here
+👉 https://nafis.free.beeceptor.com/events
 
 ### 📦 Data Fields Used:
 
@@ -95,7 +95,7 @@ lib/
 
 ---
 
-## 🎥 Demo
+## 📸 App Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/29b87af7-2132-48c8-9382-2dc4331f9c58" width="250"/>
@@ -106,17 +106,16 @@ lib/
 
 ## 📦 APK Download
 
-Link -> https://drive.google.com/file/d/16DTK1lWAdUe2X6eyutSDeYHPwhWdAprN/view?usp=drive_link
+👉 [Download APK](https://drive.google.com/file/d/16DTK1lWAdUe2X6eyutSDeYHPwhWdAprN/view?usp=drive_link)
 
 ---
 
 ## 🎯 Challenges Faced
 
-* Handling API errors and network issues
-* Designing responsive UI for multiple screen sizes
-* Implementing consistent dark mode UI
-* Managing clean component structure
-
+* Designing a responsive UI across different screen sizes
+* Handling API errors and network issues gracefully
+* Maintaining consistent UI in dark and light mode
+  
 ---
 
 ## ✅ Conclusion
